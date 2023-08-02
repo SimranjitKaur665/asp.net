@@ -1,0 +1,62 @@
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\smiles\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Simranjeet\OneDrive - Georgian College\Documents\assignment2[1]\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
